@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Hq4uMnIfk5O02wOv/NnzyFGTMIBHzz7bObWiTpOVc50=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Fantasy Movies\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
